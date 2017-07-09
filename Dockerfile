@@ -9,3 +9,5 @@ WORKDIR "/work"
 RUN git clone https://github.com/mamewotoko/whiteboard.git
 WORKDIR "/work/whiteboard"
 RUN npm install
+CMD ["npm", "app.js"]
+

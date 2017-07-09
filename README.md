@@ -30,8 +30,13 @@ docker-compose down
 
 Configuration
 --------------
-* Listen port number
+* Listen port 
   * modify ports part of docker-compose.yml
+
+
+Reference
+---------
+* [mamewotoko/whiteboard](https://github.com/mamewotoko/whiteboard)
 
 ----
 Takashi Masuyama < mamewotoko@gmail.com >
