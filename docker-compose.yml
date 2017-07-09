@@ -1,0 +1,9 @@
+version: '2'
+
+services:
+  whiteboard:
+    build: .
+    # add port: command: ["node", "app.js", "3210"]
+    command: ["node", "app.js"]
+    ports:
+      - 3000:3000
