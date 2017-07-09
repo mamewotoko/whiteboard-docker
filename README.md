@@ -39,5 +39,5 @@ Reference
 * [mamewotoko/whiteboard](https://github.com/mamewotoko/whiteboard)
 
 ----
-Takashi Masuyama < mamewotoko@gmail.com >
+Takashi Masuyama < mamewotoko@gmail.com >  
 http://mamewo.ddo.jp/
