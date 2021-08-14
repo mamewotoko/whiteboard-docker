@@ -1,4 +1,4 @@
-Dockernized whitebaord
+Dockernized whiteboard
 ======================
 
 Prepare
@@ -30,7 +30,7 @@ docker-compose down
 
 Configuration
 --------------
-* Listen port 
+* Listen port
   * modify ports part of docker-compose.yml
 
 
@@ -39,5 +39,5 @@ Reference
 * [mamewotoko/whiteboard](https://github.com/mamewotoko/whiteboard)
 
 ----
-Takashi Masuyama < mamewotoko@gmail.com >  
+Takashi Masuyama < mamewotoko@gmail.com >
 http://mamewo.ddo.jp/
